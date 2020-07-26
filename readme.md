@@ -32,7 +32,14 @@ node seeder -d
 node seeder -i
 ```
 
+## Demo
+
+The API is live [here](http://134.122.67.253/)
+
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/6291584/T17DiVFn?version=latest)
+
 - Version: 1.0.0
 - License: MIT
+
 
 
