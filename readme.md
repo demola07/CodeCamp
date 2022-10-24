@@ -60,7 +60,7 @@ node seeder -i
 
 ## Demo
 
-The API is live [here](http://134.122.67.253/)
+The API is live [here](https://tame-teal-scallop-suit.cyclic.app/)
 
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/6291584/T17DiVFn?version=latest)
 
